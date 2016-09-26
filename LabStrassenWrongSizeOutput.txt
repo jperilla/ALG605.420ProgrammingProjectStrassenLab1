@@ -1,0 +1,62 @@
+Julie Garcia Lab 1 Strassen Algorithm Output
+
+Input
+Order = 5
+Input Matrix One
+1 2 3 4 5 
+2 3 4 5 6 
+-1 2 3 -4 2 
+0 8 3 2 1 
+-4 1 2 8 5 
+Input Matrix Two
+1 2 3 4 5 
+2 3 4 5 6 
+-1 2 3 -4 2 
+0 8 3 2 1 
+-4 1 2 8 5 
+Result: Order 5 must be a power of 2.
+
+Input
+Order = 4
+Input Matrix One
+1 2 3 4 
+2 3 4 5 
+-1 2 3 -4 
+0 8 3 2 
+Input Matrix Two
+1 2 3 4 
+2 3 4 5 
+-1 2 3 -4 
+0 8 3 2 
+Result ORDINARY Matrix Mutliplication
+Number of Multiplications = 64
+2 46 32 10 
+4 61 45 17 
+0 -22 2 -14 
+13 46 47 32 
+Result STRASSEN Matrix Mutliplication
+Number of Multiplications = 49
+2 46 32 10 
+4 61 45 17 
+0 -22 2 -14 
+13 46 47 32 
+
+
+Input
+Order = 2
+Input Matrix One
+1 0 
+0 1 
+Input Matrix Two
+1 0 
+0 1 
+Result ORDINARY Matrix Mutliplication
+Number of Multiplications = 8
+1 0 
+0 1 
+Result STRASSEN Matrix Mutliplication
+Number of Multiplications = 7
+1 0 
+0 1 
+
+

@@ -1,0 +1,22 @@
+Julie Garcia Lab 1 Strassen Algorithm Output
+
+Input
+Order = 2
+Input Matrix One
+2 1 
+1 5 
+Input Matrix Two
+6 7 
+4 3 
+Result ORDINARY Matrix Mutliplication
+Number of Multiplications = 8
+16 17 
+26 22 
+Result STRASSEN Matrix Mutliplication
+Number of Multiplications = 7
+16 17 
+26 22 
+
+
+Result: ERROR - File Format Error - Please see README file for proper formatting of Input.
+
